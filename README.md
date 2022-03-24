@@ -8,5 +8,5 @@
 - 遊戲進度管理
 - low level drawing with canvas api
 # 教學預期：學員可是簡單的製作遊戲碰撞偵測，挪動遊戲精靈圖片，播放背景音樂和音效，以及Json serialization和deserialization.用canvas來畫圖。
-視頻地址：https://youtu.be/IEPpnCdjkHE <br>
+視頻地址：https://youtu.be/AgnjWdIT1Sc <br>
 頻道地址：https://www.youtube.com/channel/UCI_nzNMP4JEyJiITpJeIxYg
